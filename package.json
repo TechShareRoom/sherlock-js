@@ -1,0 +1,25 @@
+{
+    "name": "sherlock-js",
+    "version": "0.1.0",
+    "description": "A Javascript sherlock port to hunt down social media accounts by username across social networks",
+    "main": "index.js",
+    "scripts": {
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/TechShareRoom/sherlock-js.git"
+    },
+    "keywords": [
+        "sherlock-js",
+        "osint",
+        "reconnaissance",
+        "information-gathering"
+    ],
+    "author": "TechShareRoom",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/TechShareRoom/sherlock-js/issues"
+    },
+    "homepage": "https://github.com/TechShareRoom/sherlock-js#readme"
+}
