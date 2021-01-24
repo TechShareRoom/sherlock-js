@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/techshareroom/sherlock-js/main/images/sherlock-js.png" width="80"> sherlock-js
 =============================================
 
-un port en javascript de [sherlock](https://github.com/sherlock-project/sherlock) para buscar cuentas por nombre de usuario en las redes sociales.
+Un port en javascript de [sherlock](https://github.com/sherlock-project/sherlock) para buscar cuentas por nombre de usuario en las redes sociales.
 
 # PARA HACER
 
