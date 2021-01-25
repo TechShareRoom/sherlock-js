@@ -8,6 +8,8 @@
 
 Un port en javascript de [sherlock](https://github.com/sherlock-project/sherlock) para buscar cuentas por nombre de usuario en las redes sociales.
 
+[![Discord](https://discordapp.com/api/guilds/750051000664064141/widget.png)](https://discord.gg/wfm7Jrj)
+
 # PARA HACER
 
 Subir código inicial
