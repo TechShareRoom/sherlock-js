@@ -22,7 +22,7 @@ Pendiente
 
 # Contribuidores
 
-Pendiente
+* [LuisSanchez-Dev](https://github.com/LuisSanchez-Dev)
 
 # Licencia
 Licensed under MIT Copyright (c) TechShareRoom

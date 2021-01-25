@@ -22,7 +22,7 @@ Pendant
 
 # Contributors
 
-Pendant
+* [LuisSanchez-Dev](https://github.com/LuisSanchez-Dev)
 
 # License
 Licensed under MIT Copyright (c) TechShareRoom
