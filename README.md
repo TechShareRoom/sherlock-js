@@ -8,7 +8,9 @@
 
 A Javascript [sherlock](https://github.com/sherlock-project/sherlock) port to hunt down social media accounts by username across social networks.
 
-<img src="https://discordapp.com/api/guilds/750051000664064141/widget.png?style=shield" alt="Discord Shield"/>
+<a href="https://discord.gg/wfm7Jrj">
+<img src="https://discordapp.com/api/guilds/750051000664064141/widget.png?style=banner2" alt="Discord Banner 2"/>
+</a>
 
 # TO DO
 
